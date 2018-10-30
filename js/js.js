@@ -1,3 +1,4 @@
+/*123*/
 	window.onload=function(){
 			/*导航栏鼠标变色效果*/
 		var tD=document.getElementsByTagName('td');
